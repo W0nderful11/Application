@@ -22,7 +22,7 @@ This is a simple Task Management application built with Node.js, Express, MongoD
 
 3. Create a `.env` file in the root directory with the following content:
    ```
-    MONGO_URI=mongodb+srv://wins:<db_password>@cluster0.vlo5z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    MONGO_URI=mongodb+srv://wins:0000@cluster0.vlo5z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
     PORT=5003
    ```
 
