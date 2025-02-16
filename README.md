@@ -22,8 +22,7 @@ This is a simple Task Management application built with Node.js, Express, MongoD
 
 3. Create a `.env` file in the root directory with the following content:
    ```
-    MONGO_URI=mongodb+srv://temsaykrg:bvjMckrftENEPKq2@cluster1.j33wk.mongodb.net/myDatabase?retryWrites=true&w=majority&appName=Cluster1 
-    JWT_SECRET=5fb45d5bd7f263f25ab11ec12f4f022202b6c812978cfedfd8ec545b2ede4e48ed224c9e64786029e520ace75231e471a26a0731ffde6394f11d5853feeb39ee
+    MONGO_URI=mongodb+srv://wins:<db_password>@cluster0.vlo5z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
     PORT=5003
    ```
 
@@ -111,5 +110,5 @@ Application settings are stored in `.env`:
 ## Deployment
 The application is deployed on **Render** and is accessible at:
 
-🔗 **https://backend-ass3-auth.onrender.com**
+🔗 **https://application-7isd.onrender.com**
 
